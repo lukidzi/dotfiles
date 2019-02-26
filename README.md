@@ -16,10 +16,11 @@ Esc+: b
 
 ```bash
 git clone https://github.com/lukidzi/dotfiles.git ~/Github/dotfiles
-ln -sv ~/Github/dotfiles/.zshrc ~
 ln -sv ~/Github/dotfiles/.zsh/ ~
-ln -sv ~/Github/dotfiles/.sshrc ~
 ln -sv ~/Github/dotfiles/.oh-my.zsh ~
+ln -sv ~/Github/dotfiles/.zshrc ~
+ln -sv ~/Github/dotfiles/.sshrc.d/ ~
+ln -sv ~/Github/dotfiles/.sshrc ~
 ln -sv ~/Github/dotfiles/.vimrc ~
 ```
 
