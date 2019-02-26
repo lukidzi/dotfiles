@@ -24,5 +24,6 @@ ln -sv ~/Github/dotfiles/.sshrc ~
 ln -sv ~/Github/dotfiles/.vimrc ~
 ```
 
+## Useful plugins
 
-
+```https://github.com/unixorn/awesome-zsh-plugins#oh-my-zsh-1```
