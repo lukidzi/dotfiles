@@ -17,7 +17,7 @@ set smartindent
 set smarttab	
 set softtabstop=4
  
-
+syntax on
 set ruler	
  
 set undolevels=1000
